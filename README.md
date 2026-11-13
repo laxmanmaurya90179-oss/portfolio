@@ -4,6 +4,12 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, interests, learning journey, and web development projects through a modern, responsive, and animated user interface.
 
+## 🌐 Live Site
+
+The portfolio is published with GitHub Pages: [Visit Laxman Mourya's portfolio](https://laxmanmaurya90179-oss.github.io/portfolio/).
+
+Updates to the site are deployed automatically when changes are pushed to `main`.
+
 ## 👨‍💻 About Me
 
 Hi, I'm **Laxman Mourya**, a second-year BCA student specializing in **Artificial Intelligence & Data Science (AI & DS)** at **RIMT University**.
@@ -42,11 +48,13 @@ My interests include:
 ## 📂 Project Structure
 
 ```text
-Laxman-Portfolio/
+portfolio/
 │
-├── index.html
-├── style.css
-├── script.js
+├── laxman_mourya_portfolio/
+│   └── laxman_portfolio/
+│       ├── index.html
+│       ├── style.css
+│       └── script.js
 └── README.md
 ```
 
@@ -54,9 +62,9 @@ Laxman-Portfolio/
 
 1. Download or clone this repository.
 
-2. Open the project folder in VS Code.
+2. Open `laxman_mourya_portfolio/laxman_portfolio/` in VS Code.
 
-3. Make sure all three files are in the same folder.
+3. Make sure `index.html`, `style.css` and `script.js` are in the same folder.
 
 4. Open `index.html` in your browser.
 
