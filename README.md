@@ -6,9 +6,9 @@ Welcome to my personal portfolio website! This project showcases my skills, inte
 
 ## 🌐 Live Site
 
-The portfolio is published with GitHub Pages: [Visit Laxman Mourya's portfolio](https://laxmanmaurya90179-oss.github.io/portfolio/).
+The portfolio is configured to publish at [laxmanmaurya90179-oss.github.io/portfolio](https://laxmanmaurya90179-oss.github.io/portfolio/). For the first deployment, enable **Settings → Pages → Build and deployment → Source → GitHub Actions** in this repository.
 
-Updates to the site are deployed automatically when changes are pushed to `main`.
+After Pages is enabled, updates deploy automatically when changes are pushed to `main`.
 
 ## 👨‍💻 About Me
 
